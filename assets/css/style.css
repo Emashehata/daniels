@@ -3,7 +3,9 @@
     --sec-color: #748182;
     --bg-color:#F7F7F7;
 }
- 
+html{
+    scroll-padding: 58px;
+}
 body{
     font-family: "Poppins", sans-serif;
 }
